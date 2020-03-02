@@ -1,0 +1,18 @@
+
+/* Class = "IBUILabel"; text = "Password"; ObjectID = "GGY-NP-FGk"; */
+"GGY-NP-FGk.text" = "Password";
+
+/* Class = "IBUILabel"; text = "E-Paisa"; ObjectID = "J6N-Cd-ndd"; */
+"J6N-Cd-ndd.text" = "E-Paisa";
+
+/* Class = "IBUITextField"; placeholder = "Enter your User Name"; ObjectID = "cNY-Qb-boz"; */
+"cNY-Qb-boz.placeholder" = "Enter your User Name";
+
+/* Class = "IBUITextField"; placeholder = "Enter your Password"; ObjectID = "cbs-ap-Oin"; */
+"cbs-ap-Oin.placeholder" = "Enter your Password";
+
+/* Class = "IBUILabel"; text = "Remember User Name"; ObjectID = "gXC-yh-Y8F"; */
+"gXC-yh-Y8F.text" = "Remember User Name";
+
+/* Class = "IBUILabel"; text = "User Name"; ObjectID = "mzi-mf-Gps"; */
+"mzi-mf-Gps.text" = "User Name";

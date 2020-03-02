@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  EPaisa
+
+    Created by subbu on 06/08/14.
+    Copyright (c) 2014 subbu. All rights reserved.
+*/
+
+"English" = "Inglés";
+"Spanish" = "Español";
+"Español" = "Spanish";
+"Language: Spanish" = "Lenguaje: Español";
+"Language: English" = "Lenguaje: Ingles";
+"Idioma: Spanish" = "Lenguaje: Español";
+"Idioma: English" = "Lenguaje: Ingles";
+"User Name" = "nombre de usuario";
+"Password" = "Contraseña";
+"Enter your User Name" = "Entre en su Nombre de usuario";
+"Enter your Password" = "Entre en Contraseña";
+"Remember User Name" = "recordar nombre de usuario";
+"Login" = "Firmarse";
